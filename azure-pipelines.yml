@@ -6,7 +6,7 @@
 trigger:
 - main
 pool:
-  Anuj123
+  Default
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
@@ -21,4 +21,4 @@ steps:
     processName: 'GitHubTest'
     folderName: 'Test'
     jobType: 'TestAutomation'
-    user: 'americas\124859'
+    user: 'anshika\talk2'
